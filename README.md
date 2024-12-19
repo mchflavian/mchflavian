@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**mchflavian/mchflavian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<<!--
+**mchflavian/mchflavian** is a ✨ _special_ ✨ repository because its `README.md` will appear on your profile!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on learning
+- 🌱 I’m currently learning programming
+- 👯 I’m looking to collaborate on edx
+- 🤔 I’m looking for help with programming
+- 💬 Ask me about Jesus
+- 📫 How to reach me: 0706022330
+- 😄 Pronouns: fmk
+- ⚡ Fun fact: comedy
 -->
