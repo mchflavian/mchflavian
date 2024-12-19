@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <<!--
-**mchflavian/mchflavian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mchflavian/mchflavian** is a ✨ _special_ ✨ repository."meech flavian"
 
 - I’m currently learning programming
 - I’m looking to collaborate with developers and fellow programmers
